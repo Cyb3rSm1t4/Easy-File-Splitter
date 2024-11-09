@@ -23,7 +23,7 @@ Option 1: Download the Executable
 Option 2: Run from Source
 
 # Clone the repository
-git clone https://github.com/YourUsername/file-splitter.git
+git clone https://github.com/Cyb3rSm1t4/file-splitter.git
 
 # Navigate to the directory
 cd file-splitter
