@@ -42,7 +42,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # Run the application
-python file_splitter_cli.py
+python filesplitter_gui.py
 
 Usage
 
