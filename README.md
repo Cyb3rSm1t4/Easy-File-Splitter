@@ -32,6 +32,7 @@ cd Easy-File-Splitter
 python -m venv venv
 
 # Activate virtual environment
+
 # Windows:
 venv\Scripts\activate
 # Linux/Mac:
@@ -41,7 +42,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # Run the application
-python filesplitter_gui.py
+python file_splitter_cli.py
 
 Usage
 
@@ -75,6 +76,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 Acknowledgments
 
     Built using Python and Tkinter
